@@ -1,6 +1,6 @@
 # Hai, saya Agie Permana 👋
 
- **DevOps** & **AI/ML** — Belajar dan Berkembang.
+ **DevOps** & **AI/ML**
 
 ## 🛠️ Tech Stack
 
